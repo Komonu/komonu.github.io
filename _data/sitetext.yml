@@ -25,11 +25,11 @@ en: &DEFAULT_EN
         desc: "Elevate your digital workflow with custom web and mobile software solutions, transforming inefficient tools like spreadsheets into streamlined, user-friendly applications. Our full-stack development expertise delivers tailored solutions to enhance your business productivity and user experience."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Team Integration Services"
-        desc: "We bring a wealth of full-stack development expertise to the table. Our focus is on collaboration, adaptability, and enhancing team dynamics to achieve project goals more efficiently. Whether you need an experienced developer to fill a critical role or a skilled engineer to provide fresh insights and techniques, we am equipped to join your team and hit the ground running. With a deep understanding of both front-end and back-end technologies, we can blend into your existing workflows, contribute to various stages of the development cycle, and help drive your projects to successful completion"
+        desc: "Enhance your team's dynamics and efficiency with our full-stack development expertise, ready to integrate seamlessly into your existing workflow. Whether it's providing critical development support or offering fresh insights, we're equipped to contribute effectively to your project's success at any stage."
         icon: fas fa-laptop
       - title: "Workshops"
-        desc: "Bridge the gap between different technology stacks with specialized workshops focused on transitioning to Python/Django. Designed for engineers accustomed to other programming languages like Java, these sessions provide a comprehensive grounding in Python and Django, equipping participants with the necessary tools to excel in this dynamic environment. Out workshops emphasize practical application, ensuring that engineers not only understand the theoretical aspects but also gain hands-on experience in applying Python and Django in real-world scenarios. By the end of the course, participants will be confident in Python/Django, ready to integrate these powerful tools into their existing projects and workflows."
-        icon: fab fa-gear
+        desc: "Transition smoothly from Java or other languages to Python/Django with our specialized workshops, designed to provide a comprehensive and practical understanding of these tools. Our sessions ensure hands-on experience, enabling engineers to confidently apply Python and Django in real-world scenarios and integrate them into their existing projects."
+        icon: fas fa-gear
 
   portfolio:
     title: "Portfolio"
@@ -46,7 +46,7 @@ en: &DEFAULT_EN
     events:
       - title: "Our Humble Beginnings"
         year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+b        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
         alt:
       - title: "An Agency is Born"
