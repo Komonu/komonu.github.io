@@ -11,25 +11,25 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Welcome to Komou!
+    text: Where people are first, and software is second
     button: Tell Me More
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: ""
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Custom Software"
+        desc: "Transform your digital workflow with tailored software solutions for web and mobile. I specialize in converting cumbersome, inefficient tools – like spreadsheets – into sophisticated, user-friendly applications designed to streamline your business processes. Leveraging our expertise in full-stack development, we deliver comprehensive solutions that not only meet your specific needs but also enhance productivity and user experience. Let's turn those daily annoyances into powerful, efficient tools that work for you and not against you."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Team Integration Services"
+        desc: "We bring a wealth of full-stack development expertise to the table. Our focus is on collaboration, adaptability, and enhancing team dynamics to achieve project goals more efficiently. Whether you need an experienced developer to fill a critical role or a skilled engineer to provide fresh insights and techniques, we am equipped to join your team and hit the ground running. With a deep understanding of both front-end and back-end technologies, we can blend into your existing workflows, contribute to various stages of the development cycle, and help drive your projects to successful completion"
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Workshops"
+        desc: "Bridge the gap between different technology stacks with specialized workshops focused on transitioning to Python/Django. Designed for engineers accustomed to other programming languages like Java, these sessions provide a comprehensive grounding in Python and Django, equipping participants with the necessary tools to excel in this dynamic environment. Out workshops emphasize practical application, ensuring that engineers not only understand the theoretical aspects but also gain hands-on experience in applying Python and Django in real-world scenarios. By the end of the course, participants will be confident in Python/Django, ready to integrate these powerful tools into their existing projects and workflows."
+        icon: fab fa-gear
 
   portfolio:
     title: "Portfolio"
