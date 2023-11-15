@@ -41,7 +41,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: ""
+    text: '"Time is the most valuable thing a man can spend." – Theophrastus'
     section: timeline
     # left is the default
     #start_align: "left"
