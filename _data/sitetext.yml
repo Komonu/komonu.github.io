@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to Komou!
-    text: Where people are first, and software is second
+    title: Welcome to Komonu!
+    text: People are first, software is second
     button: Tell Me More
     buttonlink: "#services"
 
