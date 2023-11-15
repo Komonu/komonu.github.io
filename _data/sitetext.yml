@@ -24,13 +24,13 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Custom Software"
-        desc: "Elevate your digital workflow with custom web and mobile software solutions, transforming inefficient tools like spreadsheets into streamlined, user-friendly applications. Our full-stack development expertise delivers tailored solutions to enhance your business productivity and user experience."
+        desc: "Transform your workflow with custom web and mobile software solutions, turning tools like spreadsheets into efficient, user-friendly applications, all powered by our full-stack development expertise."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Team Integration Services"
-        desc: "Enhance your team's dynamics and efficiency with our full-stack development expertise, ready to integrate seamlessly into your existing workflow. Whether it's providing critical development support or offering fresh insights, we're equipped to contribute effectively to your project's success at any stage."
+        desc: "Boost your team's efficiency with our adaptable full-stack development expertise, seamlessly integrating to enhance your project's success at every stage."
         icon: fas fa-laptop
       - title: "Workshops"
-        desc: "Transition smoothly from Java or other languages to Python/Django with our specialized workshops, designed to provide a comprehensive and practical understanding of these tools. Our sessions ensure hands-on experience, enabling engineers to confidently apply Python and Django in real-world scenarios and integrate them into their existing projects."
+        desc: "Master Python and Django through our focused workshops, tailored for engineers transitioning from Java or other languages, ensuring practical skills for immediate real-world application."
         icon: fas fa-cog
 
   portfolio:
