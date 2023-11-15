@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Custom Software"
-        desc: "Revamp your digital workflow with custom web and mobile software solutions. Specializing in transforming inefficient tools (like spreadsheets) into sophisticated applications, I focus on enhancing productivity and user experience. With full-stack development expertise, we deliver solutions tailored to your unique business needs, turning daily hassles into efficient, user-friendly tools."
+        desc: "Elevate your digital workflow with custom web and mobile software solutions, transforming inefficient tools like spreadsheets into streamlined, user-friendly applications. Our full-stack development expertise delivers tailored solutions to enhance your business productivity and user experience."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Team Integration Services"
         desc: "We bring a wealth of full-stack development expertise to the table. Our focus is on collaboration, adaptability, and enhancing team dynamics to achieve project goals more efficiently. Whether you need an experienced developer to fill a critical role or a skilled engineer to provide fresh insights and techniques, we am equipped to join your team and hit the ground running. With a deep understanding of both front-end and back-end technologies, we can blend into your existing workflows, contribute to various stages of the development cycle, and help drive your projects to successful completion"
