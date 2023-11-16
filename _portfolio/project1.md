@@ -1,18 +1,22 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Adding a discount feature
+subtitle:
 image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+alt: Image of a checkout page on a mobile phone showcasing discount feature
 
 caption:
-  title: Threads
-  subtitle: Illustration
+  title: Discount Feature
+  subtitle: Beauty Industry
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Collaborated with a team of skilled engineers to develop a sophisticated discount feature, strategically designed to meet key business objectives. This innovative feature played a crucial role in:
+
+- **Boosting Sales**: Significantly increasing overall sales figures.
+- **Attracting New Customers**: Drawing in a fresh customer base.
+- **Enhancing Seasonal Sales**: Elevating sales performance during peak seasons.
+
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
-
+- Date: Q4 2021
+- Industry: Beauty
+- Tech Stack: Django, Django Rest Framework, React Native
