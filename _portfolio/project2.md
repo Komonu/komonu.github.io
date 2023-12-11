@@ -1,11 +1,11 @@
 ---
-title: Rapid Response Revamp
+title: Optimizing User Experience
 subtitle:
 image: assets/img/portfolio/02-oil.jpg
 alt: Keep Exploring
 
 caption:
-  title: Rapid Response Revamp
+  title: Optimizing User Experience
   subtitle: Oil & Gas
   thumbnail: assets/img/portfolio/02-oil.jpg
 ---
