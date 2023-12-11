@@ -1,28 +1,40 @@
 ---
-title: Custom Equipment Management System
+title: From Spreadsheets to Custom Software
 subtitle:
 image: assets/img/portfolio/03-equipment.jpg
 alt:
 
 caption:
-  title: Custom Equipment Management System
+  title: From Spreadsheets to Custom Software
   subtitle: Retail and Warehousing
   thumbnail: assets/img/portfolio/03-equipment.jpg
 ---
 
-Our client required a specialized and efficient solution for managing their inventory system. They
-were in need of a custom, lightweight software capable of not just tracking a wide array of
-equipment but also facilitating streamlined invoicing and efficient equipment distribution
-logistics.
+**Challenge to Solution: Transforming Inventory Management**
 
-Responding to this need, we developed a mobile-first, web-based software solution, ensuring
-accessibility and ease of use across various devices. The solution's key features included:
+*The Challenge*: Our client was grappling with the limitations of spreadsheets for managing their
+diverse inventory. They needed a system not just for tracking equipment but also for streamlining
+invoicing processes and optimizing equipment distribution logistics.
 
-- **Sophisticated Equipment Tracking**: This enabled detailed tracking of equipment locations and statuses, ensuring better utilization and minimizing downtime.
-- **Seamless Invoicing Integration**: We incorporated an invoicing system to automate and simplify the billing process, thereby enhancing financial accuracy and administrative efficiency.
-- **Leveraging Google Maps API for Route Optimization**: Instead of creating a new route scheduling system, we integrated Google Maps API. This strategic decision allowed for the automatic determination of optimal routes for equipment delivery and pick-up, ensuring time-efficient and cost-effective operations for our client.
+*Our Solution*: We crafted a mobile-first, web-based application tailored to meet these specific
+needs. The solution was designed for accessibility and user-friendliness across various devices. Its
+standout features included:
 
-This customized solution markedly boosted the operational efficiency of our client, showcasing our ability to innovate and adapt technology solutions to meet specific business challenges.
+**Advanced Equipment Tracking**: Our sophisticated tracking system revolutionized equipment management
+  by providing detailed insights into locations and statuses. This enhancement significantly reduced
+  downtime and optimized equipment usage.
+
+**Integrated** Invoicing System: We seamlessly integrated invoicing capabilities, automating the
+  billing process. This not only improved financial accuracy but also streamlined administrative
+  tasks.
+
+**Optimized Logistics with Google Maps API** By integrating the Google Maps API, we eliminated the
+  need for a custom-built routing system. This allowed for automatic, optimized route planning for
+  equipment delivery and pickup, resulting in more efficient and cost-effective operations.
+
+*The Outcome*: This bespoke software solution dramatically improved our client's operational
+efficiency. It stands as a testament to our ability to tailor technology solutions creatively and
+effectively, addressing complex business challenges with innovative approaches.
 
 {:.list-inline}
 - Date: Q4 2023
