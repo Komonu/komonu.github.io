@@ -1,16 +1,24 @@
 ---
-title: Performance Optimization
+title: Sluggish Webapp
 subtitle:
-image: assets/img/portfolio/02-full.jpg
+image: assets/img/portfolio/02-oil.jpg
 alt: Keep Exploring
 
 caption:
-  title: Performance Optimization
+  title: Sluggish Webapp
   subtitle: Oil & Gas
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  thumbnail: assets/img/portfolio/02-oil.jpg
 ---
 
-Our client struggled with sluggish performance in their web application built on legacy systems. After our engagement, we conducted comprehensive optimizations at both the application layer, focusing on Django ORM, and the database layer using PostgreSQL. These enhancements resulted in a **9.5X speed increase**, significantly enhancing the overall user experience and customer satisfaction.
+Our client struggled with performance in their web application built on top of old systems.
+Due to this, their customers were complaining and some were even refusing to use the site.
+
+After our engagement, we successfully were able to decrease their website loading times by up to
+**9.5X**, significantly enhancing the overall user experience and increasing their customer happiness.
+
+
+**Speed Boost**: Multiple speed boosts, most notable is a **9.5X** increase which helped turn things around
+**Retain Customers**: Thanks to this, customers were no longer leaving the platform and were choosing to go with our clients software
 
 
 {:.list-inline}

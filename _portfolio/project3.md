@@ -1,18 +1,22 @@
 ---
 title: Custom Equipment Management System
 subtitle:
-image: assets/img/portfolio/03-full.jpg
+image: assets/img/portfolio/03-equipment.jpg
 alt:
 
 caption:
   title: Custom Equipment Management System
   subtitle: Retail and Warehousing
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  thumbnail: assets/img/portfolio/03-equipment.jpg
 ---
 
-Our client required a specialized and efficient solution for managing their inventory system. They were in need of a custom, lightweight software capable of not just tracking a wide array of equipment but also facilitating streamlined invoicing and efficient equipment distribution logistics.
+Our client required a specialized and efficient solution for managing their inventory system. They
+were in need of a custom, lightweight software capable of not just tracking a wide array of
+equipment but also facilitating streamlined invoicing and efficient equipment distribution
+logistics.
 
-Responding to this need, we developed a mobile-first, web-based software solution, ensuring accessibility and ease of use across various devices. The solution's key features included:
+Responding to this need, we developed a mobile-first, web-based software solution, ensuring
+accessibility and ease of use across various devices. The solution's key features included:
 
 - **Sophisticated Equipment Tracking**: This enabled detailed tracking of equipment locations and statuses, ensuring better utilization and minimizing downtime.
 - **Seamless Invoicing Integration**: We incorporated an invoicing system to automate and simplify the billing process, thereby enhancing financial accuracy and administrative efficiency.

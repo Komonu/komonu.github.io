@@ -97,7 +97,7 @@ en: &DEFAULT_EN
   team:
     title: "OUR TEAM"
     text: "Regular people just like you."
-    subtext: We have a diverse skillset, all ranging from different industries from oil & gas, Government, Security to Health Care industry. We *will always* strive to not just be better developers but **better people as well**.
+    subtext: We have a diverse skillset, all ranging from different industries from Oil & Gas, Government, Security to Health Care industry. We *will always* strive to not just be better developers but **better people as well**.
     section: team
     people:
       - name: "Daniel Gopar"
